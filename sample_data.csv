@@ -1,0 +1,151 @@
+Bus_ID,Production_Stage,Defect_Type,Rework_Time,Labor_Cost,Material_Loss,Delay_Cost
+BUS-0001,Mechanical Assembly,Dimensional Deviation,5.2,1921.81,2700.72,3222.76
+BUS-0002,Electrical Wiring,Wire Short Circuit,7.13,2545.97,3861.71,3204.88
+BUS-0003,Painting & Surface Treatment,Fluid Leak,8.66,2856.62,3778.92,3291.74
+BUS-0004,Mechanical Assembly,Paint Blister,9.3,3210.7,4261.69,6055.6
+BUS-0005,Painting & Surface Treatment,Fluid Leak,4.34,1478.4,2131.87,1978.75
+BUS-0006,Electrical Wiring,Misaligned Component,4.84,1725.31,1980.96,2622.98
+BUS-0007,Quality Inspection,Welding Crack,0.73,278.44,432.98,614.11
+BUS-0008,Body Fabrication,Paint Blister,5.56,2017.7,2713.45,1725.35
+BUS-0009,Quality Inspection,Fluid Leak,0.62,234.76,280.09,500.68
+BUS-0010,Painting & Surface Treatment,Surface Scratch,6.16,2176.14,2691.74,2951.67
+BUS-0011,Painting & Surface Treatment,Misaligned Component,9.52,3595.11,4946.4,4504.45
+BUS-0012,Final Finishing,Loose Fastener,3.6,1376.22,2048.06,3383.72
+BUS-0013,Quality Inspection,Fluid Leak,1.75,585.66,889.94,1202.34
+BUS-0014,Quality Inspection,Welding Crack,0.55,189.55,263.44,397.26
+BUS-0015,Electrical Wiring,Wire Short Circuit,6.09,2229.13,3375.41,2788.68
+BUS-0016,Painting & Surface Treatment,Welding Crack,9.32,3490.37,4565.78,3439.28
+BUS-0017,Final Finishing,Fluid Leak,4.33,1543.17,1969.91,3858.36
+BUS-0018,Electrical Wiring,Dimensional Deviation,7.82,2928.0,4256.78,3780.33
+BUS-0019,Final Finishing,Loose Fastener,1.2,437.7,506.61,1030.89
+BUS-0020,Electrical Wiring,Loose Fastener,7.32,2549.38,3752.64,4068.41
+BUS-0021,Quality Inspection,Loose Fastener,2.62,924.31,1154.4,2285.42
+BUS-0022,Electrical Wiring,Wire Short Circuit,2.55,969.2,1432.14,1392.33
+BUS-0023,Final Finishing,Misaligned Component,5.02,1646.86,2904.13,4444.34
+BUS-0024,Painting & Surface Treatment,Loose Fastener,9.17,3092.68,3869.84,3537.05
+BUS-0025,Final Finishing,Welding Crack,5.09,1910.03,2043.08,4468.11
+BUS-0026,Body Fabrication,Surface Scratch,7.55,2441.6,3529.8,2993.62
+BUS-0027,Final Finishing,Fluid Leak,3.59,1307.52,1697.09,3585.85
+BUS-0028,Mechanical Assembly,Misaligned Component,6.02,2105.84,2770.26,3547.8
+BUS-0029,Body Fabrication,Wire Short Circuit,13.75,4815.08,5641.57,4492.92
+BUS-0030,Body Fabrication,Welding Crack,7.83,2545.87,3898.48,3139.78
+BUS-0031,Mechanical Assembly,Loose Fastener,12.14,4026.04,6624.11,7344.83
+BUS-0032,Mechanical Assembly,Paint Blister,10.6,3736.54,4431.41,7349.75
+BUS-0033,Mechanical Assembly,Wire Short Circuit,5.24,1665.56,2715.26,3477.05
+BUS-0034,Electrical Wiring,Paint Blister,4.83,1598.03,2555.24,2288.03
+BUS-0035,Body Fabrication,Fluid Leak,10.19,3878.02,4356.27,3396.45
+BUS-0036,Body Fabrication,Paint Blister,18.8,7076.58,8489.86,6895.81
+BUS-0037,Painting & Surface Treatment,Fluid Leak,6.44,2267.37,2887.51,2374.63
+BUS-0038,Mechanical Assembly,Dimensional Deviation,13.81,4962.17,6460.4,8306.72
+BUS-0039,Electrical Wiring,Misaligned Component,7.27,2686.93,3841.51,3340.58
+BUS-0040,Mechanical Assembly,Surface Scratch,11.03,3922.8,5233.26,7866.43
+BUS-0041,Body Fabrication,Dimensional Deviation,8.54,2872.65,4245.43,2942.75
+BUS-0042,Quality Inspection,Welding Crack,1.12,354.22,558.63,779.31
+BUS-0043,Electrical Wiring,Welding Crack,3.5,1235.42,1756.17,1912.65
+BUS-0044,Final Finishing,Surface Scratch,3.95,1514.91,1964.53,3877.32
+BUS-0045,Electrical Wiring,Paint Blister,3.78,1361.39,2017.71,2201.31
+BUS-0046,Mechanical Assembly,Dimensional Deviation,8.99,3191.81,4977.86,4888.23
+BUS-0047,Mechanical Assembly,Misaligned Component,8.64,2890.68,4982.68,5847.71
+BUS-0048,Quality Inspection,Fluid Leak,1.66,587.13,854.0,1462.39
+BUS-0049,Mechanical Assembly,Loose Fastener,6.67,2190.19,3026.15,4183.54
+BUS-0050,Painting & Surface Treatment,Welding Crack,5.16,1930.33,3023.78,1887.9
+BUS-0051,Painting & Surface Treatment,Fluid Leak,7.37,2506.58,3322.64,2905.3
+BUS-0052,Painting & Surface Treatment,Welding Crack,8.79,2852.91,4762.27,3750.3
+BUS-0053,Painting & Surface Treatment,Loose Fastener,5.36,1784.53,2799.54,1968.63
+BUS-0054,Body Fabrication,Misaligned Component,16.77,6045.54,9062.4,6390.35
+BUS-0055,Mechanical Assembly,Wire Short Circuit,7.06,2409.51,2956.7,4552.25
+BUS-0056,Final Finishing,Wire Short Circuit,3.33,1175.44,1522.84,2993.15
+BUS-0057,Final Finishing,Welding Crack,1.19,443.37,561.73,924.75
+BUS-0058,Body Fabrication,Fluid Leak,16.32,5387.35,8561.11,5001.45
+BUS-0059,Quality Inspection,Fluid Leak,2.36,832.71,1244.87,1940.46
+BUS-0060,Quality Inspection,Paint Blister,2.31,779.87,1291.38,1656.41
+BUS-0061,Mechanical Assembly,Paint Blister,3.94,1248.09,2334.57,2732.39
+BUS-0062,Body Fabrication,Misaligned Component,10.54,3447.96,4545.77,3412.59
+BUS-0063,Final Finishing,Surface Scratch,4.57,1650.75,2083.86,4544.42
+BUS-0064,Quality Inspection,Surface Scratch,3.06,974.12,1570.41,2114.91
+BUS-0065,Final Finishing,Welding Crack,2.71,871.06,1135.03,2237.09
+BUS-0066,Final Finishing,Misaligned Component,1.88,594.46,1039.03,1796.46
+BUS-0067,Mechanical Assembly,Welding Crack,8.58,3092.95,3514.47,6133.74
+BUS-0068,Mechanical Assembly,Paint Blister,6.13,1937.52,3596.39,3863.1
+BUS-0069,Quality Inspection,Dimensional Deviation,1.07,342.34,565.48,706.87
+BUS-0070,Electrical Wiring,Misaligned Component,5.24,1792.98,2770.17,2716.55
+BUS-0071,Electrical Wiring,Wire Short Circuit,7.62,2606.25,4512.85,4486.98
+BUS-0072,Mechanical Assembly,Dimensional Deviation,3.83,1233.47,1545.96,2119.33
+BUS-0073,Electrical Wiring,Loose Fastener,1.96,661.16,1115.19,881.83
+BUS-0074,Painting & Surface Treatment,Wire Short Circuit,4.25,1373.9,2292.23,1854.05
+BUS-0075,Quality Inspection,Fluid Leak,3.07,1139.72,1401.17,2135.15
+BUS-0076,Body Fabrication,Fluid Leak,16.91,6499.11,8159.47,5691.26
+BUS-0077,Final Finishing,Fluid Leak,5.29,1825.21,2910.42,4982.21
+BUS-0078,Body Fabrication,Surface Scratch,18.44,6460.78,10423.98,6105.58
+BUS-0079,Electrical Wiring,Wire Short Circuit,4.03,1272.51,2341.74,1856.33
+BUS-0080,Mechanical Assembly,Surface Scratch,11.12,3878.39,5544.49,6129.8
+BUS-0081,Quality Inspection,Wire Short Circuit,2.61,923.31,1155.04,2278.72
+BUS-0082,Body Fabrication,Loose Fastener,5.46,1908.87,2246.85,1939.39
+BUS-0083,Quality Inspection,Wire Short Circuit,3.61,1225.83,1528.52,2481.99
+BUS-0084,Painting & Surface Treatment,Paint Blister,6.95,2238.45,2896.91,3094.99
+BUS-0085,Painting & Surface Treatment,Welding Crack,8.57,3123.22,3567.43,3151.1
+BUS-0086,Electrical Wiring,Fluid Leak,3.93,1339.91,2210.86,2340.09
+BUS-0087,Body Fabrication,Dimensional Deviation,16.05,5478.48,6688.04,6084.56
+BUS-0088,Final Finishing,Loose Fastener,3.12,1180.75,1317.39,2723.96
+BUS-0089,Quality Inspection,Paint Blister,2.14,682.53,906.85,1458.73
+BUS-0090,Body Fabrication,Loose Fastener,15.94,5672.02,9443.41,5369.57
+BUS-0091,Body Fabrication,Welding Crack,17.9,5918.67,10608.34,5348.09
+BUS-0092,Quality Inspection,Dimensional Deviation,1.63,518.4,953.43,1412.91
+BUS-0093,Mechanical Assembly,Wire Short Circuit,11.34,3631.98,4912.98,6537.25
+BUS-0094,Body Fabrication,Dimensional Deviation,15.15,5179.7,8293.42,5963.07
+BUS-0095,Painting & Surface Treatment,Fluid Leak,2.46,842.84,1036.52,982.26
+BUS-0096,Painting & Surface Treatment,Misaligned Component,7.17,2453.42,3196.95,2799.94
+BUS-0097,Quality Inspection,Welding Crack,1.41,488.88,573.11,1013.97
+BUS-0098,Quality Inspection,Misaligned Component,2.61,871.65,1113.52,1754.19
+BUS-0099,Final Finishing,Paint Blister,3.08,1095.5,1798.21,2357.65
+BUS-0100,Final Finishing,Paint Blister,3.76,1227.78,1813.26,3563.99
+BUS-0101,Painting & Surface Treatment,Fluid Leak,9.88,3372.75,5433.17,4016.38
+BUS-0102,Electrical Wiring,Wire Short Circuit,5.2,1661.12,2118.29,2430.12
+BUS-0103,Quality Inspection,Fluid Leak,0.76,276.2,385.22,629.07
+BUS-0104,Electrical Wiring,Dimensional Deviation,5.3,1938.89,2922.51,2680.54
+BUS-0105,Quality Inspection,Surface Scratch,1.22,405.77,555.03,856.89
+BUS-0106,Body Fabrication,Welding Crack,16.11,5127.54,7309.66,4830.25
+BUS-0107,Painting & Surface Treatment,Paint Blister,5.81,2168.27,2681.64,2671.81
+BUS-0108,Mechanical Assembly,Dimensional Deviation,4.06,1503.93,2103.04,2542.49
+BUS-0109,Quality Inspection,Dimensional Deviation,2.74,1017.51,1590.93,2184.02
+BUS-0110,Painting & Surface Treatment,Surface Scratch,6.86,2466.62,3505.21,2527.68
+BUS-0111,Painting & Surface Treatment,Misaligned Component,6.38,2211.08,3713.76,2517.18
+BUS-0112,Painting & Surface Treatment,Wire Short Circuit,7.58,2810.31,3728.37,3510.32
+BUS-0113,Body Fabrication,Misaligned Component,5.06,1610.14,2652.26,1689.93
+BUS-0114,Final Finishing,Wire Short Circuit,3.9,1321.75,1979.07,3371.67
+BUS-0115,Electrical Wiring,Surface Scratch,6.03,1975.46,3251.98,3081.85
+BUS-0116,Electrical Wiring,Wire Short Circuit,5.84,1910.04,2560.59,2643.69
+BUS-0117,Quality Inspection,Paint Blister,1.48,484.54,618.26,1009.9
+BUS-0118,Body Fabrication,Misaligned Component,7.3,2485.64,3654.99,2700.94
+BUS-0119,Body Fabrication,Paint Blister,16.79,6026.82,6990.55,6535.1
+BUS-0120,Quality Inspection,Welding Crack,1.47,546.01,807.99,1024.77
+BUS-0121,Final Finishing,Surface Scratch,4.09,1393.97,2014.35,3844.44
+BUS-0122,Final Finishing,Wire Short Circuit,2.26,824.75,1308.63,1984.43
+BUS-0123,Mechanical Assembly,Dimensional Deviation,13.41,4556.59,6429.19,7446.84
+BUS-0124,Quality Inspection,Misaligned Component,0.57,192.4,252.11,416.19
+BUS-0125,Mechanical Assembly,Welding Crack,13.69,4881.19,7335.38,9372.9
+BUS-0126,Quality Inspection,Paint Blister,0.8,282.08,413.89,661.36
+BUS-0127,Body Fabrication,Misaligned Component,6.04,2022.58,2854.6,2206.54
+BUS-0128,Painting & Surface Treatment,Wire Short Circuit,4.85,1862.67,2527.6,1876.42
+BUS-0129,Final Finishing,Dimensional Deviation,1.76,584.7,760.56,1395.19
+BUS-0130,Final Finishing,Surface Scratch,1.87,706.44,778.01,1648.28
+BUS-0131,Quality Inspection,Misaligned Component,3.99,1507.27,2055.65,3457.01
+BUS-0132,Final Finishing,Surface Scratch,2.29,748.74,1222.24,2261.86
+BUS-0133,Electrical Wiring,Fluid Leak,4.6,1719.02,2028.67,2754.06
+BUS-0134,Mechanical Assembly,Wire Short Circuit,5.39,1975.64,2727.17,3606.81
+BUS-0135,Final Finishing,Fluid Leak,1.44,504.62,844.42,1192.2
+BUS-0136,Electrical Wiring,Welding Crack,3.9,1352.52,1987.91,2077.55
+BUS-0137,Painting & Surface Treatment,Dimensional Deviation,7.48,2402.21,3199.68,2672.91
+BUS-0138,Body Fabrication,Wire Short Circuit,11.57,4135.43,6465.99,3571.7
+BUS-0139,Quality Inspection,Surface Scratch,3.11,1068.58,1824.29,2747.39
+BUS-0140,Painting & Surface Treatment,Misaligned Component,5.03,1910.65,2737.93,1826.19
+BUS-0141,Quality Inspection,Fluid Leak,3.4,1249.62,1903.69,2873.36
+BUS-0142,Quality Inspection,Dimensional Deviation,1.32,474.36,767.68,960.35
+BUS-0143,Painting & Surface Treatment,Welding Crack,7.46,2585.91,4048.96,3508.87
+BUS-0144,Quality Inspection,Surface Scratch,2.39,826.25,1232.04,1760.45
+BUS-0145,Painting & Surface Treatment,Surface Scratch,2.53,837.51,1286.68,1040.77
+BUS-0146,Electrical Wiring,Loose Fastener,6.25,2272.25,2708.41,3653.96
+BUS-0147,Body Fabrication,Misaligned Component,15.86,5632.21,9508.68,5971.33
+BUS-0148,Quality Inspection,Dimensional Deviation,3.23,1049.81,1424.14,2646.82
+BUS-0149,Quality Inspection,Wire Short Circuit,3.14,1011.72,1592.91,2329.9
+BUS-0150,Quality Inspection,Fluid Leak,2.61,913.92,1325.81,2001.47
