@@ -98,7 +98,7 @@ On subsequent runs, the existing `sample_data.csv` is loaded instead of regenera
 
 ---
 
-## 📊 Example Terminal Output
+##  Example Terminal Output
 
 ```
 ══════════════════════════════════════════════════════════
